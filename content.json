@@ -113,6 +113,12 @@
             "title": "Dungeons & Dragons: Honor Among Thieves",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/D%26DHAT2023logo.jpeg/220px-D%26DHAT2023logo.jpeg",
             "releaseDate": "2023-03-03 00:00:00.000"
+        },
+        {
+            "id": 20,
+            "title": "Mission: Impossible – Dead Reckoning Part One",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Mission_Impossible_%E2%80%93_Dead_Reckoning_Part_One_logo.jpg",
+            "releaseDate": "2023-07-14 00:00:00.000"
         }
     ]
 }
