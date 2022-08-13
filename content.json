@@ -31,8 +31,14 @@
             "id": 4,
             "title": "Teenage Mutant Ninja Turtles: Cowabunga Collection",
             "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659600/header.jpg?t=1655164956",
-            "comingSoon": "Spring 2022",
-            "type": "game"
+            "releaseDate": "2022-08-30 00:00:00.000",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Reveal Trailer",
+                    "url": "https://www.youtube.com/watch?v=nlaZF5bxc50"
+                }
+            ]
         },
         {
             "id": 5,
