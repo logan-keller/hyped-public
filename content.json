@@ -145,7 +145,13 @@
             "title": "Samaritan",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2M2MjMxNjUtZWU2MS00NTIwLWE0ZDEtOTY3NzY5NGZmY2RmXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
             "releaseDate": "2022-08-26 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=9FKnTxSC16E"
+                }
+            ]
         },
         {
             "id": 22,
