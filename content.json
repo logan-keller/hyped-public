@@ -4,265 +4,309 @@
             "id": 1,
             "title": "Thor: Love and Thunder",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-            "releaseDate": "2022-07-07 00:00:00.000"
+            "releaseDate": "2022-07-07 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 2,
             "title": "Green Lantern: Beware My Power",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzI4NWRiYjUtYjQ3Ni00YWUyLTg4YzUtOTk3OTViNzNiYjYyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_.jpg",
-            "releaseDate": "2022-07-26 00:00:00.000"
+            "releaseDate": "2022-07-26 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 3,
             "title": "Batman and Superman: Battle of the Super Sons",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDFjOTQxZjUtOWExNS00OGIzLWEyMzYtMmUyNjRiM2ViYTQ0XkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_FMjpg_UX1000_.jpg",
-            "releaseDate": "2022-10-18 00:00:00.000"
+            "releaseDate": "2022-10-18 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 4,
             "title": "Teenage Mutant Ninja Turtles: Cowabunga Collection",
             "imageUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659600/header.jpg?t=1655164956",
-            "comingSoon": "Spring 2022"
+            "comingSoon": "Spring 2022",
+            "type": "game"
         },
         {
             "id": 5,
             "title": "Hogwarts Legacy",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Hogwarts-Legacy-cover.jpg",
-            "comingSoon": "Winter 2022"
+            "comingSoon": "Winter 2022",
+            "type": "game"
         },
         {
             "id": 6,
             "title": "Overwatch 2",
             "imageUrl": "https://i.ytimg.com/vi/dZl1yGUetjI/maxresdefault.jpg",
-            "releaseDate": "2022-10-04 00:00:00.000"
+            "releaseDate": "2022-10-04 00:00:00.000",
+            "type": "game"
         },
         {
             "id": 7,
             "title": "Cobra Kai Season 5",
             "imageUrl": "https://imgs.search.brave.com/3rS12nKJ0ItNQFJ0xO8JjIPBqgVecBE0uJrkYodUjRM/rs:fit:770:432:1/g:ce/aHR0cHM6Ly9vdGFr/dWthcnQuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA0/L1Bvc3Rlci0yNy03/NzB4NDMyLmpwZw",
-            "releaseDate": "2022-09-09 00:00:00.000"
+            "releaseDate": "2022-09-09 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 8,
             "title": "MARVEL’S SPIDER-MAN 2",
             "imageUrl": "https://insomniac.games/wp-content/uploads/2021/10/MSM2_Reveal_Attack_4K_Legal-scaled.jpg",
-            "comingSoon": "2023"
+            "comingSoon": "2023",
+            "type": "game"
         },
         {
             "id": 9,
             "title": "MARVEL’S WOLVERINE",
             "imageUrl": "https://insomniac.games/wp-content/uploads/2021/10/MW_Teaser_Claws_4K_Legal-scaled.jpg",
-            "comingSoon": "TBD"
+            "comingSoon": "TBD",
+            "type": "game"
         },
         {
             "id": 10,
             "title": "God of War Ragnarök",
             "imageUrl": "https://blog.playstation.com/tachyon/2022/07/2fb623c2e696bf1e36e2015d12439c094103c5fb-scaled.jpg?resize=1088%2C612&crop_strategy=smart&zoom=1.5",
-            "releaseDate": "2022-11-09 00:00:00.000"
+            "releaseDate": "2022-11-09 00:00:00.000",
+            "type": "game"
         },
         {
             "id": 11,
             "title": "She-Hulk",
             "imageUrl": "https://whatsondisneyplus.com/wp-content/uploads/2021/11/shehulk_90c7f03f.png.jpeg",
-            "releaseDate": "2022-08-18 00:00:00.000"
+            "releaseDate": "2022-08-18 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 12,
             "title": "Andor",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Star_Wars_-_Andor_official_logo.jpg/250px-Star_Wars_-_Andor_official_logo.jpg",
-            "releaseDate": "2022-08-31 00:00:00.000"
+            "releaseDate": "2022-08-31 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 13,
             "title": "The Bad Batch Season 2",
             "imageUrl": "https://images.thedirect.com/media/photos/Screenshot_20220603-085843.jpg",
-            "releaseDate": "2022-09-28 00:00:00.000"
+            "releaseDate": "2022-09-28 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 14,
             "title": "Black Panther: Wakanda Forever",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjJlMjBmYzUtY2E3MC00OWI1LWE1YmUtOTdmM2IyMTQyZDBjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-            "releaseDate": "2022-11-11 00:00:00.000"
+            "releaseDate": "2022-11-11 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 15,
             "title": "The Lord of the Rings: The Rings of Power",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/LOTR_The_Rings_of_Power_logo.jpg",
-            "releaseDate": "2022-09-02 00:00:00.000"
+            "releaseDate": "2022-09-02 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 16,
             "title": "Black Adam",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmYTlhNmMtODQ0OS00YWNiLWI1MmMtNzkwYWMzOGM4YWQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
-            "releaseDate": "2022-10-21 00:00:00.000"
+            "releaseDate": "2022-10-21 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 17,
             "title": "Avatar: The Way of Water",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
-            "releaseDate": "2022-12-16 00:00:00.000"
+            "releaseDate": "2022-12-16 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 18,
             "title": "House of the Dragon",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/House_of_the_Dragon_logo.jpg",
-            "releaseDate": "2022-08-21 00:00:00.000"
+            "releaseDate": "2022-08-21 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 19,
             "title": "Dungeons & Dragons: Honor Among Thieves",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Dungeons_%26_Dragons_Honor_Among_Thieves.jpg/220px-Dungeons_%26_Dragons_Honor_Among_Thieves.jpg",
-            "releaseDate": "2023-03-03 00:00:00.000"
+            "releaseDate": "2023-03-03 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 20,
             "title": "Mission: Impossible – Dead Reckoning Part One",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Mission_Impossible_%E2%80%93_Dead_Reckoning_Part_One_logo.jpg",
-            "releaseDate": "2023-07-14 00:00:00.000"
+            "releaseDate": "2023-07-14 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 21,
             "title": "Samaritan",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2M2MjMxNjUtZWU2MS00NTIwLWE0ZDEtOTY3NzY5NGZmY2RmXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_.jpg",
-            "releaseDate": "2022-08-26 00:00:00.000"
+            "releaseDate": "2022-08-26 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 22,
             "title": "Shazam! Fury of the Gods",
             "imageUrl": "https://s.movieinsider.com/images/p/600//650629_m1658599600.jpg",
-            "releaseDate": "2022-12-21 00:00:00.000"
+            "releaseDate": "2022-12-21 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 23,
             "title": "Kraven the Hunter",
             "imageUrl": "https://static.digit.in/OTT/v2/images/kraven-the-hunter-739926.jpg",
-            "releaseDate": "2023-01-13 00:00:00.000"
+            "releaseDate": "2023-01-13 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 24,
             "title": "Ant-Man and the Wasp: Quantumania",
             "imageUrl": "https://s.movieinsider.com/images/p/573480_m1607900944.png",
-            "releaseDate": "2023-02-17 00:00:00.000"
+            "releaseDate": "2023-02-17 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 25,
             "title": "Aquaman and the Lost Kingdom",
             "imageUrl": "https://flxt.tmsimg.com/assets/p18935685_v_v13_aa.jpg",
-            "releaseDate": "2023-03-17 00:00:00.000"
+            "releaseDate": "2023-03-17 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 26,
             "title": "John Wick: Chapter 4",
             "imageUrl": "https://s.movieinsider.com/images/p/595945_m1624973793.jpg",
-            "releaseDate": "2023-03-24 00:00:00.000"
+            "releaseDate": "2023-03-24 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 27,
             "title": "Guardians of the Galaxy Vol. 3",
             "imageUrl": "https://s.movieinsider.com/images/p/491976_m1532440931.jpg",
-            "releaseDate": "2023-05-05 00:00:00.000"
+            "releaseDate": "2023-05-05 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 28,
             "title": "Spider-Man: Across the Spider-Verse",
             "imageUrl": "https://s.movieinsider.com/images/p/600//623239_m1642906693.jpg",
-            "releaseDate": "2023-06-02 00:00:00.000"
+            "releaseDate": "2023-06-02 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 29,
             "title": "Transformers: Rise of the Beasts",
             "imageUrl": "https://s.movieinsider.com/images/p/600//595580_m1624722989.jpg",
-            "releaseDate": "2023-06-09 00:00:00.000"
+            "releaseDate": "2023-06-09 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 30,
             "title": "The Flash",
             "imageUrl": "https://s.movieinsider.com/images/p/600//365116_m1471224039.jpg",
-            "releaseDate": "2023-06-23 00:00:00.000"
+            "releaseDate": "2023-06-23 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 31,
             "title": "Indiana Jones 5",
             "imageUrl": "https://s.movieinsider.com/images/p/600//641800_m1653597546.jpg",
-            "releaseDate": "2023-06-30 00:00:00.000"
+            "releaseDate": "2023-06-30 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 32,
             "title": "Captain Marvel 2",
             "imageUrl": "https://s.movieinsider.com/images/p/573484_m1607901536.png",
-            "releaseDate": "2023-07-28 00:00:00.000"
+            "releaseDate": "2023-07-28 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 33,
             "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
             "imageUrl": "https://s.movieinsider.com/images/p/600//652871_m1659786733.jpg",
-            "releaseDate": "2023-08-04 00:00:00.000"
+            "releaseDate": "2023-08-04 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 34,
             "title": "Blue Beetle",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNThmZTMyMGItYTViNi00YWFkLTk1NWMtNTJkYjZlMjU3ZGVhXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_.jpg",
-            "releaseDate": "2023-08-18 00:00:00.000"
+            "releaseDate": "2023-08-18 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 35,
             "title": "Madame Web",
             "imageUrl": "https://cdn.mos.cms.futurecdn.net/sKkh8eKBjQrBDCT9cLeTDc.jpg",
-            "releaseDate": "2023-10-06 00:00:00.000"
+            "releaseDate": "2023-10-06 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 36,
             "title": "Blade",
             "imageUrl": "https://s.movieinsider.com/images/p/600//528106_m1563756615.png",
-            "releaseDate": "2023-11-03 00:00:00.000"
+            "releaseDate": "2023-11-03 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 37,
             "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
             "imageUrl": "https://s.movieinsider.com/images/p/600//648356_m1657313730.jpg",
-            "releaseDate": "2023-11-17 00:00:00.000"
+            "releaseDate": "2023-11-17 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 38,
             "title": "Dune: Part Two",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjFkM2RhZjUtN2U0MC00NTMxLTk1MjktZDkwNjg3MjI0NmYxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg",
-            "releaseDate": "2023-11-17 00:00:00.000"
+            "releaseDate": "2023-11-17 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 39,
             "title": "Ghostbusters: Afterlife 2",
             "imageUrl": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/11/ghostbusters-afterlife-2.jpg",
-            "releaseDate": "2023-12-20 00:00:00.000"
+            "releaseDate": "2023-12-20 00:00:00.000",
+            "type": "movie"
         },
         {
             "id": 40,
             "title": "Star Wars: Rogue Squadron",
             "imageUrl": "https://s.movieinsider.com/images/p/573257_m1607739620.png",
-            "releaseDate": "2023-12-22 00:00:00.000"
+            "releaseDate": "2023-12-22 00:00:00.000",
+            "type": "tv"
         },
         {
             "id": 41,
             "title": "World of Warcraft: Wrath of the Lich King Classic",
             "imageUrl": "https://static1-us.millenium.gg/articles/9/27/02/9/@/239598-wotlk-orig-1-article_cover_bd-1.jpg",
-            "releaseDate": "2022-09-26 00:00:00.000"
+            "releaseDate": "2022-09-26 00:00:00.000",
+            "type": "game"
         },
         {
             "id": 42,
             "title": "World of Warcraft: Dragonflight",
             "imageUrl": "https://assets-prd.ignimgs.com/2022/04/19/wow-dragonflight-button-1-1650398895381.jpg",
-            "comingSoon": "Winter 2022"
+            "comingSoon": "Winter 2022",
+            "type": "game"
         },
         {
             "id": 43,
             "title": "Diablo IV",
             "imageUrl": "https://happymag.tv/wp-content/uploads/2020/11/Diablo-IV-Logo-870x524.jpg",
-            "comingSoon": "2023"
+            "comingSoon": "2023",
+            "type": "game"
         },
         {
             "id": 44,
             "title": "Pokémon Scarlet and Violet",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Pok%C3%A9mon_Scarlet_and_Violet_banner.png",
-            "releaseDate": "2022-11-18 00:00:00.00"
+            "releaseDate": "2022-11-18 00:00:00.00",
+            "type": "game"
         }
     ]
 }
