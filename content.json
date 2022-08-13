@@ -361,6 +361,19 @@
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Pok%C3%A9mon_Scarlet_and_Violet_banner.png",
             "releaseDate": "2022-11-18 00:00:00.00",
             "type": "game"
+        },
+        {
+            "id": 44,
+            "title": "I Am Groot",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/I_Am_Groot_logo.jpeg",
+            "releaseDate": "2022-08-10 00:00:00.00",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=D7eFpRf4tac"
+                }
+            ]
         }
     ]
 }
