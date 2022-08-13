@@ -19,7 +19,13 @@
             "title": "Batman and Superman: Battle of the Super Sons",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDFjOTQxZjUtOWExNS00OGIzLWEyMzYtMmUyNjRiM2ViYTQ0XkEyXkFqcGdeQXVyMTk2OTAzNTI@._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2022-10-18 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=2xeLibvJVIU"
+                }
+            ]
         },
         {
             "id": 4,
@@ -96,7 +102,13 @@
             "title": "Black Panther: Wakanda Forever",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjJlMjBmYzUtY2E3MC00OWI1LWE1YmUtOTdmM2IyMTQyZDBjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
             "releaseDate": "2022-11-11 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=RlOB3UALvrQ"
+                }
+            ]
         },
         {
             "id": 15,
@@ -110,14 +122,26 @@
             "title": "Black Adam",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2ZmYTlhNmMtODQ0OS00YWNiLWI1MmMtNzkwYWMzOGM4YWQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2022-10-21 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=X0tOpBuYasI"
+                }
+            ]
         },
         {
             "id": 17,
             "title": "Avatar: The Way of Water",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg",
             "releaseDate": "2022-12-16 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=a8Gx8wiNbs8"
+                }
+            ]
         },
         {
             "id": 18,
@@ -131,14 +155,26 @@
             "title": "Dungeons & Dragons: Honor Among Thieves",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Dungeons_%26_Dragons_Honor_Among_Thieves.jpg/220px-Dungeons_%26_Dragons_Honor_Among_Thieves.jpg",
             "releaseDate": "2023-03-03 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=IiMinixSXII"
+                }
+            ]
         },
         {
             "id": 20,
             "title": "Mission: Impossible – Dead Reckoning Part One",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Mission_Impossible_%E2%80%93_Dead_Reckoning_Part_One_logo.jpg",
             "releaseDate": "2023-07-14 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=2m1drlOZSDw"
+                }
+            ]
         },
         {
             "id": 21,
@@ -158,7 +194,13 @@
             "title": "Shazam! Fury of the Gods",
             "imageUrl": "https://s.movieinsider.com/images/p/600//650629_m1658599600.jpg",
             "releaseDate": "2022-12-21 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=Zi88i4CpHe4"
+                }
+            ]
         },
         {
             "id": 23,
@@ -200,7 +242,13 @@
             "title": "Spider-Man: Across the Spider-Verse",
             "imageUrl": "https://s.movieinsider.com/images/p/600//623239_m1642906693.jpg",
             "releaseDate": "2023-06-02 00:00:00.000",
-            "type": "movie"
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "First Look",
+                    "url": "https://www.youtube.com/watch?v=BbXJ3_AQE_o"
+                }
+            ]
         },
         {
             "id": 29,
