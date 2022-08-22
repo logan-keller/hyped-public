@@ -425,7 +425,19 @@
                     "url": "https://www.youtube.com/watch?v=YYrJdAdi1WI"
                 }
             ]
+        },
+        {
+            "id": 49,
+            "title": "Wonder Woman",
+            "imageUrl": "https://assets-prd.ignimgs.com/2022/05/02/wonderwomanmono-1651534982151.jpg",
+            "comingSoon": "TBA",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Official Game Announcement Teaser",
+                    "url": "https://www.youtube.com/watch?v=dyA8lnp9Tzg"
+                }
+            ]
         }
-        
     ]
 }
