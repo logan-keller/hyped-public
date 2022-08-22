@@ -412,6 +412,19 @@
                     "url": "https://www.youtube.com/watch?v=2EVFYstVuVk"
                 }
             ]
+        },
+        {
+            "id": 48,
+            "title": "The Lord of the Rings: Gollum",
+            "imageUrl": "https://assets-prd.ignimgs.com/2022/05/24/lord-of-the-rings-gollum-button-1653414611672.jpg",
+            "comingSoon": "2023",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Gameplay Reveal Trailer",
+                    "url": "https://www.youtube.com/watch?v=YYrJdAdi1WI"
+                }
+            ]
         }
         
     ]
