@@ -375,7 +375,7 @@
             "type": "game"
         },
         {
-            "id": 44,
+            "id": 45,
             "title": "I Am Groot",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f7/I_Am_Groot_logo.jpeg",
             "releaseDate": "2022-08-10 00:00:00.00",
@@ -388,17 +388,31 @@
             ]
         },
         {
-            "id": 45,
+            "id": 46,
             "title": "Gotham Knights",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/Gotham_Knights_Cover.jpg",
             "releaseDate": "2022-10-25 00:00:00.00",
-            "type": "tv",
+            "type": "game",
             "trailers": [
                 {
                     "title": "World Premiere Trailer",
                     "url": "https://www.youtube.com/watch?v=IhVf_3TeTQE"
                 }
             ]
+        },
+        {
+            "id": 47,
+            "title": "Suicide Squad: Kill the Justice League",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Suicide_Squad_Kill_the_Justice_League.webp",
+            "comingSoon": "Early 2023",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Official Teaser Trailer",
+                    "url": "https://www.youtube.com/watch?v=2EVFYstVuVk"
+                }
+            ]
         }
+        
     ]
 }
