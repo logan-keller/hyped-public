@@ -132,8 +132,14 @@
             "id": 15,
             "title": "The Lord of the Rings: The Rings of Power",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/LOTR_The_Rings_of_Power_logo.jpg",
-            "releaseDate": "2022-09-02 00:00:00.000",
-            "type": "tv"
+            "releaseDate": "2022-09-01 21:00:00.000-04",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=uYnQDsaxHZU"
+                }
+            ]
         },
         {
             "id": 16,
