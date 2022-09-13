@@ -496,6 +496,19 @@
                     "url": "https://www.youtube.com/watch?v=qZVTkn2NjS0"
                 }
             ]
+        },
+        {
+            "id": 54,
+            "title": "Star Wars Eclipse",
+            "imageUrl": "https://blog.turtlebeach.com/wp-content/uploads/2022/05/Star-Wars-Eclipse-scaled.jpeg",
+            "comingSoon": "TBD",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=4cJpiOPKH14"
+                }
+            ]
         }
     ]
 }
