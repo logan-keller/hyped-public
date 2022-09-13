@@ -470,6 +470,19 @@
             "imageUrl": "https://media-cache.cinematerial.com/p/500x/nmoiorm2/batman-and-superman-battle-of-the-super-sons-dvd-movie-cover.jpg",
             "releaseDate": "2022-10-18 00:00:00.00",
             "type": "movie"
+        },
+        {
+            "id": 52,
+            "title": "Tales of the Jedi",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Tales_of_the_Jedi_%28TV_series%29_logo.jpeg",
+            "releaseDate": "2022-10-26 00:00:00.00",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=-uRRKqQbmw4"
+                }
+            ]
         }
     ]
 }
