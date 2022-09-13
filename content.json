@@ -455,8 +455,15 @@
             "id": 50,
             "title": "The Mandalorian Season 3",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/The_Mandalorian_season_3_poster.jpg",
-            "comingSoon": "Feb 2023"
+            "comingSoon": "Feb 2023",
             "type": "tv"
         },
+        {
+            "id": 51,
+            "title": "Batman and Superman: Battle of the Super Sons",
+            "imageUrl": "https://media-cache.cinematerial.com/p/500x/nmoiorm2/batman-and-superman-battle-of-the-super-sons-dvd-movie-cover.jpg",
+            "releaseDate": "2022-10-18 00:00:00.00",
+            "type": "movie"
+        }
     ]
 }
