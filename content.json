@@ -483,6 +483,19 @@
                     "url": "https://www.youtube.com/watch?v=-uRRKqQbmw4"
                 }
             ]
+        },
+        {
+            "id": 53,
+            "title": "Secret Invasion",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Secret_Invasion_%28TV_series%29_logo.jpeg",
+            "comingSoon": "2023",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=qZVTkn2NjS0"
+                }
+            ]
         }
     ]
 }
