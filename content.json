@@ -450,6 +450,13 @@
                     "url": "https://www.youtube.com/watch?v=dyA8lnp9Tzg"
                 }
             ]
-        }
+        },
+        {
+            "id": 50,
+            "title": "The Mandalorian Season 3",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/The_Mandalorian_season_3_poster.jpg",
+            "comingSoon": "Feb 2023"
+            "type": "tv"
+        },
     ]
 }
