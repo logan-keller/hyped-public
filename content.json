@@ -99,8 +99,14 @@
             "id": 12,
             "title": "Andor",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Star_Wars_-_Andor_official_logo.jpg/250px-Star_Wars_-_Andor_official_logo.jpg",
-            "releaseDate": "2022-08-31 00:00:00.000",
-            "type": "tv"
+            "releaseDate": "2022-09-21 00:00:00.000",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=cKOegEuCcfw"
+                }
+            ]
         },
         {
             "id": 13,
@@ -126,8 +132,14 @@
             "id": 15,
             "title": "The Lord of the Rings: The Rings of Power",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/LOTR_The_Rings_of_Power_logo.jpg",
-            "releaseDate": "2022-09-02 00:00:00.000",
-            "type": "tv"
+            "releaseDate": "2022-09-01 21:00:00.000-04",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=uYnQDsaxHZU"
+                }
+            ]
         },
         {
             "id": 16,
@@ -441,6 +453,57 @@
         },
         {
             "id": 50,
+            "title": "The Mandalorian Season 3",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/The_Mandalorian_season_3_poster.jpg",
+            "comingSoon": "Feb 2023",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Teaser Trailer",
+                    "url": "https://www.youtube.com/watch?v=odnRRZKhNPk"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Tales of the Jedi",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Tales_of_the_Jedi_%28TV_series%29_logo.jpeg",
+            "releaseDate": "2022-10-26 00:00:00.00",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=-uRRKqQbmw4"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Secret Invasion",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Secret_Invasion_%28TV_series%29_logo.jpeg",
+            "comingSoon": "2023",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=qZVTkn2NjS0"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Star Wars Eclipse",
+            "imageUrl": "https://blog.turtlebeach.com/wp-content/uploads/2022/05/Star-Wars-Eclipse-scaled.jpeg",
+            "comingSoon": "TBD",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Official Trailer",
+                    "url": "https://www.youtube.com/watch?v=4cJpiOPKH14"
+                }
+            ]
+        },
+        {
             "title": "Assassin's Creed: Mirage",
             "imageUrl": "https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw16115bc2/images/large/62ea4b5609372571f2736a6b.jpg?sw=341&sh=450&sm=fit",
             "comingSoon": "2023",
