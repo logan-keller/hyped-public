@@ -515,6 +515,19 @@
                     "url": "https://www.youtube.com/watch?v=x55lAlFtXmw"
                 }
             ]
+        },
+        {
+            "id": 55,
+            "title": "Deadpool 3",
+            "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/09/deadpool-3-logo-social-featured.jpg",
+            "releaseDate": "2024-09-06 00:00:00.00",
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "Deadpool Update",
+                    "url": "https://www.youtube.com/watch?v=Yd47Z8HYf0Y"
+                }
+            ]
         }
     ]
 }
