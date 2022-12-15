@@ -554,7 +554,14 @@
             "id": 59,
             "title": "MegaMan Battle Network Legacy Collection",
             "imageUrl": "https://www.capcom-games.com/megaman/exe/assets/images/common/share_global.png",
-            "releaseDate": "2023-4-14 00:00:00.00",
+            "releaseDate": "2023-04-14 00:00:00.00",
+            "type": "game"
+        },
+        {
+            "id": 60,
+            "title": "STAR WARS Jedi: Survivor",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Star_Wars_Jedi_Survivor.jpg/220px-Star_Wars_Jedi_Survivor.jpg",
+            "releaseDate": "2023-03-17 00:00:00.00",
             "type": "game"
         }
     ]
