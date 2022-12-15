@@ -549,6 +549,13 @@
             "imageUrl": "https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)#/media/File:TomClancysJackRyan.png",
             "releaseDate": "2022-12-21 00:00:00.00",
             "type": "tv"
+        },
+        {
+            "id": 59,
+            "title": "MegaMan Battle Network Legacy Collection",
+            "imageUrl": "https://www.capcom-games.com/megaman/exe/assets/images/common/share_global.png",
+            "releaseDate": "2023-4-14 00:00:00.00",
+            "type": "game"
         }
     ]
 }
