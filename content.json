@@ -290,7 +290,7 @@
         },
         {
             "id": 31,
-            "title": "Indiana Jones 5",
+            "title": "Indiana Jones and the Dial of Destiny",
             "imageUrl": "https://s.movieinsider.com/images/p/600//641800_m1653597546.jpg",
             "releaseDate": "2023-06-30 00:00:00.000",
             "type": "movie"
@@ -563,6 +563,62 @@
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Star_Wars_Jedi_Survivor.jpg/220px-Star_Wars_Jedi_Survivor.jpg",
             "releaseDate": "2023-03-17 00:00:00.00",
             "type": "game"
+        },
+        {
+            "id": 61,
+            "title": "The Expendables 4",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGIzNjU5YTctMDllZi00MGU2LWI5MTYtYzc4ZGFjNzY5ZjYyXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "Sept 2023",
+            "type": "movie"
+        },
+        {
+            "id": 62,
+            "title": "The Super Mario Bros. Movie",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/The_Super_Mario_Bros._Movie_poster.jpg",
+            "releaseDate": "2023-04-07 00:00:00.00",
+            "type": "movie"
+        },
+        {
+            "id": 63,
+            "title": "The Continental",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGI4ODU0YzUtN2E1YS00NmFlLWI0YzItMDIwZTU2ZGQ3NzQyXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
+        },
+        {
+            "id": 64,
+            "title": "Echo",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWFiNzY2MTMtNWMwYS00OTQyLWFhZGYtZjc3ZTY0ZmMwYjAzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
+        },
+        {
+            "id": 65,
+            "title": "Loki Season 2",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
+        },
+        {
+            "id": 66,
+            "title": "Ironheart",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU3Y2RhNTQtNGQxZS00ZWE0LWI5YzQtYzU1MmE4YTE1MDNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
+        },
+        {
+            "id": 67,
+            "title": "Ahsoka",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmI5ZTJjNjktMmFkMC00ZDdiLThhZDMtNDM5YjgwODg4ZDYwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-03-12 00:00:00.00",
+            "type": "tv"
+        },
+        {
+            "id": 68,
+            "title": "The Last of Us",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-01-15 00:00:00.00",
+            "type": "tv"
         }
     ]
 }
