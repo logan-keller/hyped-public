@@ -633,6 +633,13 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BODEyZWMxMzMtNWJkZS00OGNmLThjMDYtNTIzZGMxZTE2ODFhXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2023-03-28 00:00:00.00",
             "type": "movie"
+        },
+        {
+            "id": 71,
+            "title": "Cobra Kai Season 6",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWU4ZmI0NTItZjcyNy00MzQ5LThiNDQtZDZkNjg1NWUwN2RhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
         }
     ]
 }
