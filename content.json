@@ -619,6 +619,20 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2023-01-15 00:00:00.00",
             "type": "tv"
+        },
+        {
+            "id": 69,
+            "title": "Legion of Super-Heroes",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDYwNjhkN2QtNTQwYS00YTJlLThmNWQtMzViZWQzYzUzNWJlXkEyXkFqcGdeQXVyMTMxODQ2MjI4._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-02-07 00:00:00.00",
+            "type": "movie"
+        },
+        {
+            "id": 70,
+            "title": "Batman: The Doom That Came to Gotham",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODEyZWMxMzMtNWJkZS00OGNmLThjMDYtNTIzZGMxZTE2ODFhXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-03-28 00:00:00.00",
+            "type": "movie"
         }
     ]
 }
