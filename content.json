@@ -98,7 +98,7 @@
         {
             "id": 12,
             "title": "Andor",
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Star_Wars_-_Andor_official_logo.jpg/250px-Star_Wars_-_Andor_official_logo.jpg",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2022-09-21 00:00:00.000",
             "type": "tv",
             "trailers": [
@@ -376,7 +376,7 @@
             "id": 43,
             "title": "Diablo IV",
             "imageUrl": "https://happymag.tv/wp-content/uploads/2020/11/Diablo-IV-Logo-870x524.jpg",
-            "comingSoon": "2023",
+            "releaseDate": "2023-06-06 00:00:00.000",
             "type": "game"
         },
         {
@@ -415,8 +415,8 @@
         {
             "id": 47,
             "title": "Suicide Squad: Kill the Justice League",
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/99/Suicide_Squad_Kill_the_Justice_League.webp",
-            "comingSoon": "Early 2023",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTJlNTVlY2QtMzEyNC00Yjk0LTgwMTgtNmEyNGZlZTNkZGZmXkEyXkFqcGdeQXVyOTc3NzE0NjM@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-05-26 00:00:00.00",
             "type": "game",
             "trailers": [
                 {
@@ -467,7 +467,7 @@
         {
             "id": 51,
             "title": "Tales of the Jedi",
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/26/Tales_of_the_Jedi_%28TV_series%29_logo.jpeg",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BODMwYmE1ZGItYWVjNi00ZWUxLWFjYjQtNjdjN2MzNzY0NmRlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2022-10-26 00:00:00.00",
             "type": "tv",
             "trailers": [
@@ -546,7 +546,7 @@
         {
             "id": 58,
             "title": "Jack Ryan Season 3",
-            "imageUrl": "https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)#/media/File:TomClancysJackRyan.png",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDNmNGI2NzAtZjZhYi00YTc1LWJjOTctMTRlMDI0MzEzNjA2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2022-12-21 00:00:00.00",
             "type": "tv"
         },
@@ -568,7 +568,7 @@
             "id": 61,
             "title": "The Expendables 4",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGIzNjU5YTctMDllZi00MGU2LWI5MTYtYzc4ZGFjNzY5ZjYyXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_FMjpg_UX1000_.jpg",
-            "comingSoon": "Sept 2023",
+            "releaseDate": "2023-09-22 00:00:00.00",
             "type": "movie"
         },
         {
