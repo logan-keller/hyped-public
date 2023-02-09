@@ -640,6 +640,13 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWU4ZmI0NTItZjcyNy00MzQ5LThiNDQtZDZkNjg1NWUwN2RhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg",
             "comingSoon": "2023",
             "type": "tv"
+        },
+        {
+            "id": 72,
+            "title": "The Legend of Zelda: Tears of the Kingdom",
+            "imageUrl": "https://zelda.com/tears-of-the-kingdom/images/share-fb.jpg",
+            "releaseDate": "2023-05-12 00:00:00.00",
+            "type": "game"
         }
     ]
 }
