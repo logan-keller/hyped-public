@@ -178,7 +178,7 @@
             "id": 19,
             "title": "Dungeons & Dragons: Honor Among Thieves",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Dungeons_%26_Dragons_Honor_Among_Thieves.jpg/220px-Dungeons_%26_Dragons_Honor_Among_Thieves.jpg",
-            "releaseDate": "2023-03-03 00:00:00.000",
+            "releaseDate": "2023-03-31 00:00:00.000",
             "type": "movie",
             "trailers": [
                 {
@@ -217,7 +217,7 @@
             "id": 22,
             "title": "Shazam! Fury of the Gods",
             "imageUrl": "https://s.movieinsider.com/images/p/600//650629_m1658599600.jpg",
-            "releaseDate": "2022-12-21 00:00:00.000",
+            "releaseDate": "2023-03-17 00:00:00.000",
             "type": "movie",
             "trailers": [
                 {
@@ -244,7 +244,7 @@
             "id": 25,
             "title": "Aquaman and the Lost Kingdom",
             "imageUrl": "https://flxt.tmsimg.com/assets/p18935685_v_v13_aa.jpg",
-            "releaseDate": "2023-03-17 00:00:00.000",
+            "releaseDate": "2023-12-25 00:00:00.000",
             "type": "movie"
         },
         {
@@ -285,7 +285,7 @@
             "id": 30,
             "title": "The Flash",
             "imageUrl": "https://s.movieinsider.com/images/p/600//365116_m1471224039.jpg",
-            "releaseDate": "2023-06-23 00:00:00.000",
+            "releaseDate": "2023-06-16 00:00:00.000",
             "type": "movie"
         },
         {
@@ -320,14 +320,14 @@
             "id": 35,
             "title": "Madame Web",
             "imageUrl": "https://cdn.mos.cms.futurecdn.net/sKkh8eKBjQrBDCT9cLeTDc.jpg",
-            "releaseDate": "2023-10-06 00:00:00.000",
+            "releaseDate": "2024-02-16 00:00:00.000",
             "type": "movie"
         },
         {
             "id": 36,
             "title": "Blade",
             "imageUrl": "https://s.movieinsider.com/images/p/600//528106_m1563756615.png",
-            "releaseDate": "2023-11-03 00:00:00.000",
+            "releaseDate": "2024-09-06 00:00:00.000",
             "type": "movie"
         },
         {
@@ -355,7 +355,7 @@
             "id": 40,
             "title": "Star Wars: Rogue Squadron",
             "imageUrl": "https://s.movieinsider.com/images/p/573257_m1607739620.png",
-            "releaseDate": "2023-12-22 00:00:00.000",
+            "comingSoon": "Never - Cancelled",
             "type": "tv"
         },
         {
@@ -442,7 +442,7 @@
             "id": 49,
             "title": "Wonder Woman",
             "imageUrl": "https://assets-prd.ignimgs.com/2022/05/02/wonderwomanmono-1651534982151.jpg",
-            "comingSoon": "TBA",
+            "comingSoon": "TBD",
             "type": "game",
             "trailers": [
                 {
@@ -520,7 +520,7 @@
             "id": 55,
             "title": "Deadpool 3",
             "imageUrl": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/09/deadpool-3-logo-social-featured.jpg",
-            "releaseDate": "2024-09-06 00:00:00.00",
+            "releaseDate": "2024-11-08 00:00:00.00",
             "type": "movie",
             "trailers": [
                 {
@@ -610,7 +610,7 @@
             "id": 67,
             "title": "Ahsoka",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYmI5ZTJjNjktMmFkMC00ZDdiLThhZDMtNDM5YjgwODg4ZDYwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
-            "releaseDate": "2023-03-12 00:00:00.00",
+            "comingSoon": "2023",
             "type": "tv"
         },
         {
@@ -642,7 +642,33 @@
             "type": "tv"
         },
         {
-            "id": 72,
+            "id": 72, 
+            "title": "The Little Mermaid",
+            "imageUrl": "https://bobcatmultimedia.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-03-at-8.16.09-PM-627x900.png",
+            "releaseDate": "2023-05-26 00:00:00.00",
+            "type": "movie",
+            "trailers": [
+                {
+                    "title": "The Little Mermaid - Official Teaser Trailer",
+                    "url": "https://www.youtube.com/watch?v=0-wPm99PF9U"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "title": "The Mighty Nein",
+            "imageUrl": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/critical-role-dungeons-and-dragons-mighty-nein-show-1.jpg",
+            "comingSoon": "TBD",
+            "type": "tv",
+            "trailers": [
+                {
+                    "title": "Critical Role: Mighty Nein - Official Announcement Teaser",
+                    "url": "https://www.youtube.com/watch?v=inU20E2e6LA"
+                }
+            ]
+        },
+        {
+            "id": 74,
             "title": "The Legend of Zelda: Tears of the Kingdom",
             "imageUrl": "https://zelda.com/tears-of-the-kingdom/images/share-fb.jpg",
             "releaseDate": "2023-05-12 00:00:00.00",
