@@ -722,6 +722,34 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWE0MjkyNGQtMjgwMS00NGIwLTg5YmEtYThlOTQ1NTZmNWFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
             "releaseDate": "2026-05-01 00:00:00.00",
             "type": "movie"
+        },
+        {
+            "id": 82,
+            "title": "Andor Season 2",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDgxNTIyZTMtMzYxNi00NmRjLWFiMTEtM2U4MTFmODkzNzM1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2024",
+            "type": "tv"
+        },
+        {
+            "id": 83,
+            "title": "Star Wars: Visions Volume 2",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWJiMDA4OTEtOGU0MC00ZDc5LWE5NWItNWVhMTlhNDliMjc4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2023-05-04 00:00:00.00",
+            "type": "tv"
+        },
+        {
+            "id": 84,
+            "title": "Star Wars: The Acolyte",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGRiNWU2NzUtYjcwNS00MTc4LTg3NTMtNDA0ZGZlZGZjMzg1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2024",
+            "type": "tv"
+        },
+        {
+            "id": 85,
+            "title": "Star Wars: Skeleton Crew",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTUzNDFjMzAtNzA2My00Yjc5LThiOGItYmU3Njc3NWUxNjQ2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "2023",
+            "type": "tv"
         }
     ]
 }
