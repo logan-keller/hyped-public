@@ -481,7 +481,7 @@
             "id": 52,
             "title": "Secret Invasion",
             "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/29/Secret_Invasion_%28TV_series%29_logo.jpeg",
-            "comingSoon": "2023",
+            "comingSoon": "Spring 2023",
             "type": "tv",
             "trailers": [
                 {
@@ -589,7 +589,7 @@
             "id": 64,
             "title": "Echo",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWFiNzY2MTMtNWMwYS00OTQyLWFhZGYtZjc3ZTY0ZmMwYjAzXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UX1000_.jpg",
-            "comingSoon": "2023",
+            "comingSoon": "Summer 2023",
             "type": "tv"
         },
         {
@@ -686,6 +686,13 @@
             "title": "Agatha: Coven of Chaos",
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTMwNDAxNjYtMjU1NS00YzI0LTg4MzAtZjYwMTBlYTRiNmVhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
             "comingSoon": "Winter 2023",
+            "type": "tv"
+        },
+        {
+            "id": 77,
+            "title": "Daredevil: Born Again",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Q1MmQ0MjgtY2YxMy00OGM3LTgyMDItZDRjNzYwNTExYjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+            "comingSoon": "Spring 2024",
             "type": "tv"
         }
     ]
