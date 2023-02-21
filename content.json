@@ -694,6 +694,34 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2Q1MmQ0MjgtY2YxMy00OGM3LTgyMDItZDRjNzYwNTExYjU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
             "comingSoon": "Spring 2024",
             "type": "tv"
+        },
+        {
+            "id": 78,
+            "title": "Captain America: New World Order",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWMwNDU1M2YtMWQyOC00NGU3LWFlYjYtMmE0YTIyOTIzNjAwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2024-05-03 00:00:00.00",
+            "type": "movie"
+        },
+        {
+            "id": 79,
+            "title": "Thunderbolts",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzdkNzFhMDAtNWVhNC00MDM5LTllYzktMWFkN2Q0ZWFlYWZkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2024-07-26 00:00:00.00",
+            "type": "movie"
+        },
+        {
+            "id": 80,
+            "title": "Avengers: The Kang Dynasty",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMyMTMwYTctMjExYi00NTc3LWEwYjAtZWJmODVkZDU1NTZiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2025-05-02 00:00:00.00",
+            "type": "movie"
+        },
+        {
+            "id": 81,
+            "title": "Avengers: Secret Wars",
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWE0MjkyNGQtMjgwMS00NGIwLTg5YmEtYThlOTQ1NTZmNWFmXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
+            "releaseDate": "2026-05-01 00:00:00.00",
+            "type": "movie"
         }
     ]
 }
