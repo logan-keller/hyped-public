@@ -750,6 +750,19 @@
             "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTUzNDFjMzAtNzA2My00Yjc5LThiOGItYmU3Njc3NWUxNjQ2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg",
             "comingSoon": "2023",
             "type": "tv"
+        },
+        {
+            "id": 86,
+            "title": "Baldur's Gate 3",
+            "imageUrl": "https://images.gog-statics.com/0aca7f0078df5a2d3d66a3122be6f93b015e98c1d85b0e5a0a8a75b94c748ce2_product_card_v2_mobile_slider_639.jpg",
+            "releaseDate": "2023-08-31 00:00:00.00",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "Baldur's Gate 3 - Release Date Reveal Trailer",
+                    "url": "https://www.youtube.com/watch?v=Ks-KF9iueE0"
+                }
+            ]
         }
     ]
 }
