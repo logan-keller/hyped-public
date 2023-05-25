@@ -776,6 +776,19 @@
             "imageUrl": "https://static.wikia.nocookie.net/tomorrowverse/images/c/c7/Justice_League_Warworld.Jpeg/revision/latest?cb=20220817200604",
             "comingSoon": "Summer 2023",
             "type": "movie"
+        },
+        {
+            "id": 88,
+            "title": "Lords of the Fallen",
+            "imageUrl": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/05/lotf_preOrderKeyArt_1920x1080_JPG-ff34724a3fd82b4928b2.jpg",
+            "releaseDate": "2023-10-13 00:00:00.00",
+            "type": "game",
+            "trailers": [
+                {
+                    "title": "The Lords of the Fallen Official Announcement Trailer",
+                    "url": "https://www.youtube.com/watch?v=oceLRiqQsko"
+                }
+            ]
         }
     ]
 }
